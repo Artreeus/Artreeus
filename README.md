@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artreeus
 - 👀 I’m interested in Photography, gaming, and programming.
-- 🌱 I’m currently learning Mern Stack Devlopmnet
+- 🌱 I’m currently learning Mern Stack Development
 - 💞️ I’m looking to collaborate on My latest project
 - 📫 How to reach me 01717160829
 
