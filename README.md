@@ -27,6 +27,15 @@
 I am always excited to learn new technologies and improve my skills. Feel free to check out my repositories and connect with me!
 
 
+
+### 📊 GitHub Stats:
+
+![Mahamudul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Artreeus&show_icons=true&theme=radical)
+
+### 💻 Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Artreeus&layout=compact&theme=radical)
+
 - 👋 Hi, I’m @Artreeus
 - 👀 I’m interested in Photography, gaming, and programming.
 - 🌱 I’m currently learning Mern Stack Development
