@@ -1,3 +1,6 @@
+<div align="center"> <img src="https://i.ibb.co/PhdCRqp/Dark-Blue-Futuristic-Technology-Mobile-Developer-Linked-In-Background-Profile.png"> </div>
+
+
 - 👋 Hi, I’m @Artreeus
 - 👀 I’m interested in Photography, gaming, and programming.
 - 🌱 I’m currently learning Mern Stack Development
