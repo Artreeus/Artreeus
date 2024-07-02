@@ -1,5 +1,31 @@
 <div align="center"> <img src="https://i.ibb.co/PhdCRqp/Dark-Blue-Futuristic-Technology-Mobile-Developer-Linked-In-Background-Profile.png"> </div>
 
+## About Me
+
+👋 Hi there! I'm **Mahamudul Hasan**, a passionate junior front-end developer from Dhaka, Bangladesh. I am currently pursuing a diploma in Computer Science and Engineering (CSE) from Dhaka Polytechnic Institute.
+
+### 🌟 About Me:
+
+- 🏫 **Student**: Diploma in CSE at Dhaka Polytechnic Institute
+- 🌍 **Location**: Dhaka, Bangladesh
+- 💻 **Passion**: Web Development
+- 🎯 **Focus**: Building responsive and interactive web applications
+
+### 🌐 Connect with Me:
+
+- **GitHub**: [github.com/Artreeus](https://github.com/Artreeus)
+- **LinkedIn**: [linkedin.com/in/Artreeus](https://www.linkedin.com/in/artreeus)
+
+### 🚀 Skills:
+
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
+- Basic knowledge of frameworks like Bootstrap and React
+
+I am always excited to learn new technologies and improve my skills. Feel free to check out my repositories and connect with me!
+
 
 - 👋 Hi, I’m @Artreeus
 - 👀 I’m interested in Photography, gaming, and programming.
