@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://i.ibb.co/PhdCRqp/Dark-Blue-Futuristic-Technology-Mobile-Developer-Linked-In-Background-Profile.png"> </div>
+dated<div align="center"> <img src="https://i.ibb.co/PhdCRqp/Dark-Blue-Futuristic-Technology-Mobile-Developer-Linked-In-Background-Profile.png"> </div>
 
 ## About Me
 
@@ -30,7 +30,11 @@ I am always excited to learn new technologies and improve my skills. Feel free t
 
 ### 📊 GitHub Stats:
 
+<div align="center">
+
 ![Mahamudul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Artreeus&show_icons=true&theme=radical)
+
+</div>
 
 ### 💻 Most Used Languages:
 
