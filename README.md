@@ -38,7 +38,13 @@ I am always excited to learn new technologies and improve my skills. Feel free t
 
 ### 💻 Most Used Languages:
 
+<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Artreeus&layout=compact&theme=radical)
+
+</div>
+
+
 
 ## 🚀 Familiar skills :
 
