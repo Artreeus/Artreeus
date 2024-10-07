@@ -1,4 +1,4 @@
-dated<div align="center"> <img src="https://i.ibb.co/PhdCRqp/Dark-Blue-Futuristic-Technology-Mobile-Developer-Linked-In-Background-Profile.png"> </div>
+<div align="center"> <img src="https://i.ibb.co/PhdCRqp/Dark-Blue-Futuristic-Technology-Mobile-Developer-Linked-In-Background-Profile.png"> </div>
 
 
 ## About Me
