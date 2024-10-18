@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://i.ibb.co/PhdCRqp/Dark-Blue-Futuristic-Technology-Mobile-Developer-Linked-In-Background-Profile.png"> </div>
 
-hh
+
 ## About Me
 
 👋 Hi there! I'm **Mahamudul Hasan**, a passionate junior front-end developer from Dhaka, Bangladesh. I am currently pursuing a diploma in Computer Science and Engineering (CSE) from Dhaka Polytechnic Institute.
