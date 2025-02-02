@@ -4,7 +4,7 @@
 
 # Hi there, I'm Mahamudul Hasan! 👋
 
-I'm a passionate junior front-end developer from Dhaka, Bangladesh. Currently, I am pursuing a diploma in Computer Science and Engineering (CSE) from Dhaka Polytechnic Institute.
+I'm a passionate Full-Stack developer from Dhaka, Bangladesh. Currently, I am pursuing a diploma in Computer Science and Engineering (CSE) from Dhaka Polytechnic Institute.
 
 ## About Me
 
