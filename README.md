@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/PhdCRqp/Dark-Blue-Futuristic-Technology-Mobile-Developer-Linked-In-Background-Profile.png">
 </div>
-asda
+
 # Hi there, I'm Mahamudul Hasan! 👋
 
 I'm a passionate Full-Stack developer from Dhaka, Bangladesh. Currently, I am pursuing a diploma in Computer Science and Engineering (CSE) from Dhaka Polytechnic Institute.
