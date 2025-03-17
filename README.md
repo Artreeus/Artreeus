@@ -12,7 +12,7 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
 
 - **Diploma in Computer Science and Engineering**
   - Dhaka Polytechnic Institute
-  - Expected Graduation: [Year]
+  -  Graduation: [2024]
   - Relevant Coursework: Web Development, Database Management, Software Engineering
 
 ## 💻 Technical Skills
