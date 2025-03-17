@@ -12,7 +12,7 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
 
 - **Diploma in Computer Science and Engineering**
   - Dhaka Polytechnic Institute
-  - Expected Graduation: [Year]
+  -  Graduation: [2024]
   - Relevant Coursework: Web Development, Database Management, Software Engineering
 
 ## 💻 Technical Skills
@@ -85,17 +85,8 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
   </a>
 </p>
 
-## 🌟 Projects Highlights
 
-### 1. Project Name
-- 📍 Brief description of the project
-- 🛠 Technologies used
-- 🔗 Project Link
 
-### 2. Project Name
-- 📍 Brief description of the project
-- 🛠 Technologies used
-- 🔗 Project Link
 
 ## 🏆 Achievements & Certifications
 
@@ -106,6 +97,11 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Artreeus&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
+
+## 📊 GitHub Contributions
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artreeus&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
@@ -118,7 +114,7 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Artreeus)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Artreeus)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulhasan048@gmail.com)
 
 ## 💡 My Coding Philosophy
 
