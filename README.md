@@ -43,18 +43,6 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🌟 Projects Highlights
-
-### 1. Project Name
-- 📍 Brief description of the project
-- 🛠 Technologies used
-- 🔗 Project Link
-
-### 2. Project Name
-- 📍 Brief description of the project
-- 🛠 Technologies used
-- 🔗 Project Link
-
 ## 🏆 Achievements & Certifications
 
 - [Certification Name] - [Issuing Organization] - [Year]
