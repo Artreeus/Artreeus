@@ -90,8 +90,8 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
 
 ## 🏆 Achievements & Certifications
 
-- [Certification Name] - [Issuing Organization] - [Year]
-- [Hackathon/Competition] - [Achievement] - [Year]
+- Complete web development - Programming Hero - 2024
+- Python Mastery - HackerRank - 2023
 
 ## 📊 GitHub Stats
 
