@@ -10,10 +10,18 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
 
 ## 🎓 Education & Background
 
-- **Diploma in Computer Science and Engineering**
+- **Bsc in Computer Science and Engineering**
+  - Bangladesh University.
+  -  Status: Running
+  - Relevant Coursework: Big Data, Machine Learning, Artificial Intelligence.
+
+- **Diploma in Computer Science and Technology**
   - Dhaka Polytechnic Institute
-  -  Graduation: [2024]
+  -  Status: Passed(Cgpa:3.63)
   - Relevant Coursework: Web Development, Database Management, Software Engineering
+ 
+  - 
+
 
 ## 💻 Technical Skills
 
