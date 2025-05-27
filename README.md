@@ -20,7 +20,6 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
   -  Status: Passed(Cgpa:3.63)
   - Relevant Coursework: Web Development, Database Management, Software Engineering
  
-  - 
 
 
 ## 💻 Technical Skills
