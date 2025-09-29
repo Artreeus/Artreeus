@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enthusiasm for creating innovative and responsive web applications. Currently pursuing a diploma in Computer Science and Engineering (CSE) at Dhaka Polytechnic Institute, I'm dedicated to expanding my skills and making meaningful contributions to the tech world.
+I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enthusiasm for creating innovative and responsive web applications. Currently pursuing a BSc in Computer Science and Engineering (CSE) at Bangladesh University, I'm dedicated to expanding my skills and making meaningful contributions to the tech world.
 
 ## 🎓 Education & Background
 
-- **Bsc in Computer Science and Engineering**
+- **BSc in Computer Science and Engineering**
   - Bangladesh University.
   -  Status: Running
   - Relevant Coursework: Big Data, Machine Learning, Artificial Intelligence.
