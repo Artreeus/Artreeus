@@ -1,7 +1,7 @@
 # Hi there, I'm Mahamudul Hasan! 👋
  
 <div align="center">
- <img src="banner.png" alt="Black-and-White-Futuristic-Engineer-Linked-In-Background-Photo" >
+ <img src="banner.png" alt="Black-and-White-Futuristic-Engineer-Linked-In-Background-Photo" alt="Banner-Image" >
 </div>
 
 ## 🚀 About Me
