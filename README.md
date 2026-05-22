@@ -156,8 +156,6 @@ const mahamudul: Developer = {
 </tr>
 </table>
 
-> 💡 The icons above use [skillicons.dev](https://skillicons.dev) — feel free to add any tech with `?i=name`. I added Postman & Figma as suggestions; remove them if you don't use them.
-
 <!-- ====================== ACHIEVEMENTS ====================== -->
 ## 🏆 Achievements & Certifications
 
