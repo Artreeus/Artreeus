@@ -1,30 +1,55 @@
-# Hi there, I'm Mahamudul Hasan! 👋
- 
 <div align="center">
- <img src="banner.png" alt="Black-and-White-Futuristic-Engineer-Linked-In-Background-Photo" alt="Banner-Image" >
+  
+<!-- Typing animation header -->
+<a href="https://github.com/Artreeus">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=A371F7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Mahamudul+Hasan!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;From+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
 </div>
+
+<div align="center">
+ <img src="banner.png" alt="Banner-Image" width="100%" >
+</div>
+
+<div align="center">
+  
+<!-- Profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=Artreeus&label=Profile%20Views&color=A371F7&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/Artreeus?tab=followers">
+  <img src="https://img.shields.io/github/followers/Artreeus?label=Followers&style=for-the-badge&color=A371F7&logo=github" alt="Followers" />
+</a>
+
+</div>
+
+<br>
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enthusiasm for creating innovative and responsive web applications. Currently pursuing a BSc in Computer Science and Engineering (CSE) at Bangladesh University, I'm dedicated to expanding my skills and making meaningful contributions to the tech world.
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+I'm a passionate **Full-Stack developer** from Dhaka, Bangladesh, with a strong enthusiasm for creating innovative and responsive web applications. Currently pursuing a BSc in Computer Science and Engineering (CSE) at Bangladesh University, I'm dedicated to expanding my skills and making meaningful contributions to the tech world.
+
+- 🔭 I'm currently working on **Full-Stack web projects**
+- 🌱 I'm currently learning **Big Data, Machine Learning & AI**
+- 💬 Ask me about **React, Next.js, Node.js & MongoDB**
+- ⚡ Fun fact: **Every line of code is a chance to solve a problem**
+
+<br clear="right"/>
 
 ## 🎓 Education & Background
 
-- **BSc in Computer Science and Engineering**
-  - Bangladesh University.
-  -  Status: Running
-  - Relevant Coursework: Big Data, Machine Learning, Artificial Intelligence.
+> 🏛️ **BSc in Computer Science and Engineering** — *Bangladesh University*
+> - Status: `Running`
+> - Relevant Coursework: Big Data, Machine Learning, Artificial Intelligence
 
-- **Diploma in Computer Science and Technology**
-  - Dhaka Polytechnic Institute
-  -  Status: Passed(Cgpa:3.63)
-  - Relevant Coursework: Web Development, Database Management, Software Engineering
- 
-
+> 🎓 **Diploma in Computer Science and Technology** — *Dhaka Polytechnic Institute*
+> - Status: `Passed` (CGPA: `3.63`)
+> - Relevant Coursework: Web Development, Database Management, Software Engineering
 
 ## 💻 Technical Skills
 
-### Languages & Frameworks
+### 🧩 Languages & Frameworks
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -43,7 +68,7 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
   </a>
 </p>
 
-### Front-End Technologies
+### 🎨 Front-End Technologies
 <p align="center">
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -59,7 +84,7 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
   </a>
 </p>
 
-### Back-End Technologies
+### ⚙️ Back-End Technologies
 <p align="center">
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -69,7 +94,7 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
   </a>
 </p>
 
-### Databases
+### 🗄️ Databases
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -79,7 +104,7 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
   </a>
 </p>
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -92,41 +117,75 @@ I'm a passionate Full-Stack developer from Dhaka, Bangladesh, with a strong enth
   </a>
 </p>
 
-
-
-
 ## 🏆 Achievements & Certifications
 
-- Complete web development - Programming Hero - 2024
-- Python Mastery - HackerRank - 2023
+| 🎖️ Certification | 🏢 Issuer | 📅 Year |
+|:---|:---|:---:|
+| Complete Web Development | Programming Hero | 2024 |
+| Python Mastery | HackerRank | 2023 |
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artreeus&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artreeus&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artreeus&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 📊 GitHub Contributions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artreeus&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artreeus&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=Artreeus&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 🌐 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/username/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username)
+<p align="center">
+  <a href="https://leetcode.com/username/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Artreeus)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Artreeus)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulhasan048@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/Artreeus" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Artreeus" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:ratulhasan048@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ## 💡 My Coding Philosophy
 
-> "Continuous learning and improvement are the keys to becoming a great developer. Every line of code is an opportunity to solve a problem and create something meaningful."
+<div align="center">
+  
+> ### *"Continuous learning and improvement are the keys to becoming a great developer.*
+> ### *Every line of code is an opportunity to solve a problem and create something meaningful."*
+
+</div>
+
+<div align="center">
+
+<!-- Snake animation (requires a GitHub Action to generate, see note) -->
+<img src="https://raw.githubusercontent.com/Artreeus/Artreeus/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
-⭐️ Crafted with ❤️ by [Mahamudul Hasan](https://github.com/Artreeus)
+<div align="center">
+
+⭐️ Crafted with ❤️ by [**Mahamudul Hasan**](https://github.com/Artreeus)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
+
+</div>
