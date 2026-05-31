@@ -32,8 +32,6 @@
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-Full-Stack Developer based in Dhaka, Bangladesh, focused on building reliable, well-structured web applications end to end — from typed React/Next.js front-ends to Node.js, Express, and MongoDB back-ends. Currently affiliated with **BdREN** (Bangladesh Research & Education Network) and pursuing a BSc in CSE, with a growing interest in data-intensive systems, Machine Learning, and AI.
-
 ```typescript
 const mahamudul: Developer = {
   name:        "Mahamudul Hasan Ratul",
