@@ -16,11 +16,25 @@
 <a href="https://github.com/Artreeus?tab=followers">
   <img src="https://img.shields.io/github/followers/Artreeus?label=Followers&style=for-the-badge&color=5D5FEF&logo=github" alt="Followers" />
 </a>
+<a href="https://hasan0481.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://github.com/Artreeus?tab=repositories">
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-00D4FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-2ECC71?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate" />
 </a>
 
+<br><br>
+
+<!-- Quick navigation -->
+<a href="#-about-me">About</a> &nbsp;•&nbsp;
+<a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
+<a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
+<a href="#-github-analytics">Analytics</a> &nbsp;•&nbsp;
+<a href="#-connect-with-me">Connect</a>
+
 </div>
+
+---
 
 <!-- ====================== ABOUT ====================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
@@ -29,23 +43,29 @@
 
 ```typescript
 const mahamudul: Developer = {
-  pronouns:   "He" | "Him",
-  location:   "Dhaka, Bangladesh 🇧🇩",
-  role:       "Full-Stack Developer",
-  education:  "BSc in CSE @ Bangladesh University",
-  focus:      ["Big Data", "Machine Learning", "AI"],
-  stack:      ["React", "Next.js", "Node.js", "MongoDB"],
-  philosophy: "Every line of code solves a problem.",
-  status:     "Always learning, always building 🚀",
+  name:        "Mahamudul Hasan Ratul",
+  pronouns:    "He" | "Him",
+  location:    "Dhaka, Bangladesh 🇧🇩",
+  role:        "Full-Stack Developer",
+  affiliation: "BdREN — Bangladesh Research & Education Network",
+  education:   "BSc in CSE @ Bangladesh University",
+  focus:       ["Big Data", "Machine Learning", "AI"],
+  stack:       ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
+  portfolio:   "https://hasan0481.netlify.app",
+  philosophy:  "Every line of code solves a problem.",
+  status:      "Always learning, always building 🚀",
 };
 ```
 
-- 🔭 &nbsp;Currently working on **Full-Stack web projects**
+- 🔭 &nbsp;Currently building **full-stack web applications** with the MERN stack & Next.js
 - 🌱 &nbsp;Currently learning **Big Data, Machine Learning & AI**
 - 💬 &nbsp;Ask me about **React, Next.js, Node.js & MongoDB**
+- 🤝 &nbsp;Open to **collaboration** and **freelance / full-time** opportunities
 - ⚡ &nbsp;Fun fact: **I believe clean code is a love letter to the next developer**
 
 <br clear="right"/>
+
+---
 
 <!-- ====================== EDUCATION ====================== -->
 ## 🎓 Education & Background
@@ -71,6 +91,8 @@ const mahamudul: Developer = {
     </td>
   </tr>
 </table>
+
+---
 
 <!-- ====================== TECH STACK ====================== -->
 ## 🧰 Tech Stack
@@ -156,6 +178,41 @@ const mahamudul: Developer = {
 </tr>
 </table>
 
+---
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!-- These cards auto-pull the live title, description, language & stars from each repo -->
+<a href="https://github.com/Artreeus/Family_Memory_vault">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Artreeus&repo=Family_Memory_vault&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=c9d1d9" alt="Family Memory Vault" />
+</a>
+<a href="https://github.com/Artreeus/RevuLoop_frontend">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Artreeus&repo=RevuLoop_frontend&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=c9d1d9" alt="RevuLoop Frontend" />
+</a>
+<br/>
+<a href="https://github.com/Artreeus/Fredocloud">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Artreeus&repo=Fredocloud&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=c9d1d9" alt="Fredocloud" />
+</a>
+
+</div>
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🗂️ **[Family Memory Vault](https://github.com/Artreeus/Family_Memory_vault)** | A platform to store, organise and relive your family's most precious memories. | `TypeScript` |
+| 💬 **[RevuLoop](https://github.com/Artreeus/RevuLoop_frontend)** | A review-collection web app where users share and browse honest reviews. | `TypeScript` |
+| ☁️ **[Fredocloud](https://github.com/Artreeus/Fredocloud)** | Full-stack engineering project / job task showcasing cloud-style features. | `JavaScript` |
+
+<div align="center">
+  <a href="https://github.com/Artreeus?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20all%2062%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  </a>
+</div>
+
+---
+
 <!-- ====================== ACHIEVEMENTS ====================== -->
 ## 🏆 Achievements & Certifications
 
@@ -177,12 +234,23 @@ const mahamudul: Developer = {
   </tr>
 </table>
 
+<div align="center">
+
+🐙 <b>GitHub badges earned:</b>
+<img src="https://img.shields.io/badge/Pull%20Shark%20x2-238636?style=flat-square&logo=github&logoColor=white" alt="Pull Shark" />
+<img src="https://img.shields.io/badge/Pair%20Extraordinaire-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Pair Extraordinaire" />
+<img src="https://img.shields.io/badge/Quickdraw-7B2FF7?style=flat-square&logo=github&logoColor=white" alt="Quickdraw" />
+<img src="https://img.shields.io/badge/YOLO-00D4FF?style=flat-square&logo=github&logoColor=white" alt="YOLO" />
+
+</div>
+
+---
+
 <!-- ====================== GITHUB STATS ====================== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- cache_seconds added to reduce rate-limit failures; using statically.io as CDN fallback proxy is optional -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artreeus&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=c9d1d9&cache_seconds=86400" alt="Mahamudul's GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artreeus&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
@@ -190,7 +258,8 @@ const mahamudul: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Artreeus&theme=react&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FF7&currStreakLabel=00D4FF" alt="GitHub Streak" />
+<!-- Switched from the deprecated herokuapp host to the maintained streak-stats.demolab.com host -->
+<img src="https://streak-stats.demolab.com?user=Artreeus&theme=react&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FF7&currStreakLabel=00D4FF" alt="GitHub Streak" />
 
 </div>
 
@@ -207,9 +276,12 @@ const mahamudul: Developer = {
 
 </div>
 
+---
+
 <!-- ====================== CODING PROFILES ====================== -->
 ## 🌐 Coding Profiles
 
+<!-- ⚠️ Replace "username" below with your real LeetCode / HackerRank handles, or delete any you don't use -->
 <p align="center">
   <a href="https://leetcode.com/username/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
@@ -219,20 +291,33 @@ const mahamudul: Developer = {
   </a>
 </p>
 
+---
+
 <!-- ====================== CONNECT ====================== -->
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Artreeus" target="_blank">
+  <a href="https://hasan0481.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/artreeuss" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Artreeus" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.facebook.com/Artreeuss" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/artreeeus" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
   <a href="mailto:ratulhasan048@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+---
 
 <!-- ====================== PHILOSOPHY ====================== -->
 ## 💡 My Coding Philosophy
@@ -247,7 +332,7 @@ const mahamudul: Developer = {
 <!-- ====================== SNAKE ANIMATION ====================== -->
 <div align="center">
 
-<!-- Generated by the GitHub Action in .github/workflows/snake.yml (see SETUP below) -->
+<!-- Generated by the GitHub Action in .github/workflows/snake.yml (workflow file included alongside this README) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artreeus/Artreeus/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Artreeus/Artreeus/output/github-snake.svg" />
@@ -259,7 +344,7 @@ const mahamudul: Developer = {
 <!-- ====================== FOOTER ====================== -->
 <div align="center">
 
-⭐️ Crafted with ❤️ by <a href="https://github.com/Artreeus"><b>Mahamudul Hasan</b></a>
+⭐️ Crafted with ❤️ by <a href="https://github.com/Artreeus"><b>Mahamudul Hasan</b></a> — if you like my work, consider following or starring a repo!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5D5FEF,100:7B2FF7&height=120&section=footer" width="100%" />
 
