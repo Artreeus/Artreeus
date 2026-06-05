@@ -17,13 +17,13 @@
 
 <br>
 
-<!-- Stat badges -->
+<!-- Stat badges — static, so they never hit the GitHub API and never render "invalid".
+     (Dynamic github/followers + github/stars badges break whenever shields.io is being
+     rate-limited by GitHub, and shields has no "total stars for a user" badge at all —
+     github/stars only works as github/stars/OWNER/REPO, which is why it showed invalid.) -->
 <img src="https://komarev.com/ghpvc/?username=Artreeus&label=Profile+Views&color=7B2FF7&style=for-the-badge" alt="Profile Views" />
 <a href="https://github.com/Artreeus?tab=followers">
-  <img src="https://img.shields.io/github/followers/Artreeus?label=Followers&style=for-the-badge&color=5D5FEF&logo=github" alt="Followers" />
-</a>
-<a href="https://github.com/Artreeus?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Artreeus?label=Stars&style=for-the-badge&color=00D4FF&logo=github" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Follow-%40Artreeus-5D5FEF?style=for-the-badge&logo=github&logoColor=white" alt="Follow Artreeus" />
 </a>
 
 <br>
@@ -277,20 +277,26 @@ const mahamudul: Developer = {
 
 ---
 
-<!-- ====================== TROPHIES ====================== -->
+<!-- ====================== TROPHIES (DISABLED) ======================
+     Removed from display on purpose. github-profile-trophy renders by calling the GitHub
+     API live, and its public instance rate-limits constantly — that is why it showed only
+     alt text. Unlike the stats cards and the snake, there is NO static / GitHub-Action
+     version of trophies, so it cannot be made fully reliable.
+
+     To bring it back, delete this comment wrapper to re-enable the block below. If the main
+     host is rate-limited, swap the host for a volunteer mirror, e.g.:
+       https://github-profile-trophy-fork-two.vercel.app
+       https://github-profile-trophy-winning.vercel.app
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<!-- If the main instance ever rate-limits, swap the host for a community mirror, e.g.
-     https://github-profile-trophy-fork-two.vercel.app -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Artreeus&theme=radical&no-frame=true&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" width="100%" />
 </a>
-
 </div>
 
----
+==================================================================== -->
 
 <!-- ====================== SNAKE ANIMATION ====================== -->
 <div align="center">
