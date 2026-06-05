@@ -59,32 +59,39 @@ const mahamudul: Developer = {
 <!-- ====================== TECH STACK ====================== -->
 ## 🧰 Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="96"><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a><br>TypeScript</td>
-<td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a><br>JavaScript</td>
-<td align="center" width="96"><a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a><br>React</td>
-<td align="center" width="96"><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a><br>Next.js</td>
-<td align="center" width="96"><a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" /></a><br>Angular</td>
-<td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /></a><br>HTML5</td>
-</tr>
-<tr>
-<td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /></a><br>CSS3</td>
-<td align="center" width="96"><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /></a><br>Tailwind</td>
-<td align="center" width="96"><a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a><br>Bootstrap</td>
-<td align="center" width="96"><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a><br>Node.js</td>
-<td align="center" width="96"><a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" /></a><br>Express</td>
-<td align="center" width="96"><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a><br>MongoDB</td>
-</tr>
-<tr>
-<td align="center" width="96"><a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /></a><br>Firebase</td>
-<td align="center" width="96"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a><br>Git</td>
-<td align="center" width="96"><a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a><br>GitHub</td>
-<td align="center" width="96"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a><br>VS Code</td>
-<td align="center" width="96"><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a><br>Postman</td>
-<td align="center" width="96"><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /></a><br>Figma</td>
-</tr>
+<div align="center">
+
+<!-- Grouped by category with skillicons.dev. To add a tool, append its slug to the
+     relevant row (full list at https://skillicons.dev). Remove any you don't use. -->
+
+<table>
+  <tr>
+    <td align="right" width="170"><b>💻 &nbsp;Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🎨 &nbsp;Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,materialui,sass,vite&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️ &nbsp;Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma&theme=dark" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🗄️ &nbsp;Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,mysql,redis&theme=dark" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🛠️ &nbsp;DevOps & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,postman,figma,npm&theme=dark" alt="DevOps & Tools" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🤖 &nbsp;Exploring</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=dark" alt="Exploring — ML / AI" /></td>
+  </tr>
 </table>
+
+</div>
 
 ---
 
@@ -194,8 +201,10 @@ const mahamudul: Developer = {
 
 <div align="center">
 
-<!-- These two services are hosted independently and render reliably -->
-<img src="https://streak-stats.demolab.com?user=Artreeus&theme=react&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FF7&currStreakLabel=00D4FF" alt="GitHub Streak" />
+<!-- STREAK — switched from streak-stats.demolab.com to the community mirror.
+     The demolab host was intermittently timing out, which is why the card rendered
+     as alt text. Same params, same look, more reliable host. -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Artreeus&theme=react&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FF7&currStreakLabel=00D4FF" alt="GitHub Streak" />
 
 <br><br>
 
@@ -204,14 +213,20 @@ const mahamudul: Developer = {
 <br><br>
 
 <!--
-  ⚠️ SETUP REQUIRED — see SETUP.md
-  The two cards below use github-readme-stats. The free public instance
-  (github-readme-stats.vercel.app) was PAUSED by its owner in Jan 2026 and no
-  longer renders. Deploy your own free Vercel instance, then replace
-  "YOUR-VERCEL-APP.vercel.app" below with your instance domain. Step-by-step in SETUP.md.
+  STATS + LANGUAGES — switched from github-readme-stats to github-profile-summary-cards.
+  Why: the github-readme-stats public instance (github-readme-stats.vercel.app) was paused
+  by its owner in Jan 2026, so the old YOUR-VERCEL-APP placeholder could never render.
+
+  The two URLs below use the summary-cards LIVE API and work with no setup.
+
+  To make them NEVER rate-limit, run .github/workflows/profile-summary-cards.yml once,
+  then replace the two src URLs below with these static (repo-hosted) ones:
+    https://raw.githubusercontent.com/Artreeus/Artreeus/main/profile-summary-card-output/nord_dark/3-stats.svg
+    https://raw.githubusercontent.com/Artreeus/Artreeus/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg
+  (Themes available: default, github, dracula, monokai, nord_dark, nord_bright, solarized, solarized_dark, vue)
 -->
-<img height="180em" src="https://YOUR-VERCEL-APP.vercel.app/api?username=Artreeus&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=c9d1d9&cache_seconds=86400" alt="Mahamudul's GitHub Stats" />
-<img height="180em" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=Artreeus&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Artreeus&theme=nord_dark" alt="Mahamudul's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Artreeus&theme=nord_dark" alt="Top Languages" />
 
 </div>
 
