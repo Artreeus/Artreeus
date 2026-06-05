@@ -1,0 +1,42 @@
+# Save this file at: .github/workflows/profile-summary-cards.yml
+#
+# WHAT IT DOES
+#   Generates GitHub summary-card SVGs and commits them into this repo, so the cards in
+#   README.md are served as static files and can NEVER be rate-limited or paused by a
+#   third-party server (which is what broke the old github-readme-stats cards).
+#
+# AFTER IT RUNS ONCE
+#   The SVGs land in the folder  profile-summary-card-output/<theme>/  on your main branch.
+#   Swap the two card <img> src URLs in README.md to the static versions:
+#     https://raw.githubusercontent.com/Artreeus/Artreeus/main/profile-summary-card-output/nord_dark/3-stats.svg
+#     https://raw.githubusercontent.com/Artreeus/Artreeus/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg
+#   (All themes are generated, so you can point at /dracula/, /github/, /monokai/, etc.)
+#
+# TOKEN
+#   Public stats work with the built-in GITHUB_TOKEN — no setup needed.
+#   To include PRIVATE-repo contributions, create a classic Personal Access Token
+#   (Settings > Developer settings > Tokens classic; `repo` scope) and add it as a repo
+#   secret named  SUMMARY_GITHUB_TOKEN.  The workflow uses it automatically if present.
+
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # refresh once a day (00:00 UTC)
+  workflow_dispatch: {}      # also lets you run it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"   # branch the SVGs are committed to
+          UTC_OFFSET: 6         # Bangladesh (UTC+6), used by the productive-time card
